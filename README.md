@@ -1,4 +1,4 @@
-<img src="https://canva.me/XUnP1jDKs9" alt="my banner">
+<img src="https://www.canva.com/design/DAEGre54gpw/F8PToR-QWPiSFGd2VfJp1g/view?utm_content=DAEGre54gpw&utm_campaign=designshare&utm_medium=link&utm_source=viewer" alt="my banner">
 
 <h1>﻿Sup</h1> 👋
 
