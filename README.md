@@ -1,3 +1,5 @@
+<img src="https://canva.me/XUnP1jDKs9" alt="my banner">
+
 <h1>﻿Sup</h1> 👋
 
 
