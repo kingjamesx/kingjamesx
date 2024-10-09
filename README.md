@@ -10,8 +10,9 @@ My specialties include quickly learning new skills and programming languages, pr
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning typescript, quasar framework, and gsap.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
+- 💡 Fun fact: I have a background in botany before transitioning into software engineering
+- 🌱 I’m currently learning react native, expo framework, and gsap.
+- 😊 Actively seeking contributions to open-source projects, participating in hackathons, and exploring advanced frontend opportunities
+- 🔧  React, JavaScript (ES6+), TypeScript, CSS, HTML, Zustand, React Query, Tailwind CSS, and more!
+- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer .
 - 📫 You can [view my resume](https://docs.google.com/document/d/1CCW1w02FjxLDFQt6id-8-80QjXY7F5kzvBN430xgsK8/edit?usp=sharing) and contact me by emailing mailto:talk2james.uj@gmail.com.
